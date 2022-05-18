@@ -1,0 +1,5 @@
+def anuj():
+  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'Pyspark': 'Beginner', 'Time Seres': 'Beginner'}
+  tools = ['numpy', 'pandas', 'sklearn', 'matplotlib', 'seaborn', 'power-bi', 'tableau']
+  cloud_architecture = ['azure']
+  return ∞
